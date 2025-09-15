@@ -1,6 +1,6 @@
 # 🎁 Amigo Secreto
 
-Aplicação simples desenvolvida como desafio da **Alura**, onde é possível adicionar nomes de amigos e realizar o sorteio de um **Amigo Secreto**.  
+Projeto do desafio da Alura que permite adicionar amigos a uma lista e sortear de forma divertida o **Amigo Secreto**.
 
 🔗 [Acesse o projeto aqui](https://alexxnunes-challenge-amigo-secreto.vercel.app/)
 
@@ -16,5 +16,5 @@ Aplicação simples desenvolvida como desafio da **Alura**, onde é possível ad
 ## 📌 Funcionalidades
 - Adicionar amigos em uma lista.  
 - Exibir os nomes cadastrados.  
-- Sortear aleatoriamente um amigo secreto.  
+- Sortear aleatoriamente um amigo.
 
